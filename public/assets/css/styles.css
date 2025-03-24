@@ -24,8 +24,9 @@ body {
 }
 
 #graph-blue {
-    background-color: #3751FF;
-    height: 2px;
+    opacity: 1;
+    width: 16px;
+    border: 2px solid #3751FF;
 }
 
 #graph-grey {
