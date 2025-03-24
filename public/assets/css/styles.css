@@ -23,6 +23,17 @@ body {
     margin: 0px 20px 0px;
 }
 
+#graph-blue {
+    background-color: #3751FF;
+    height: 2px;
+}
+
+#graph-grey {
+    height: 30px;
+    width: 2px;
+    margin: 0px 20px 0px;
+}
+
 h2 {
     font-size: 24px;
     font-weight: bold
@@ -35,14 +46,13 @@ h3 {
 
 h4 {
     font-size: 19px;
-    font-weight: bold;
 }
 
 #profile-name {
     font-weight: bold;
 }
 
-#subtext {
+.subtext {
     font-size: 12px;
 }
 
