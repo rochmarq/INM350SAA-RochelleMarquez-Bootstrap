@@ -4,13 +4,17 @@
     color: #A4A6B3;
 }
 
+.l-grey {
+    color: #9FA2B4;
+}
+
 body {
     font-family: 'Mulish', sans-serif;
     background-color: #f7f8fa;
 }
 
-main {
-    background-color: red;
+#overview {
+    /* background-color: red; */
 }
 
 #divider {
@@ -24,8 +28,14 @@ h2 {
     font-weight: bold
 }
 
+h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
 h4 {
     font-size: 19px;
+    font-weight: bold;
 }
 
 #profile-name {
