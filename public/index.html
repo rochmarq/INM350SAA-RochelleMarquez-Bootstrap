@@ -103,20 +103,23 @@
                         <section class="row px-3">
                             <section class="col-sm-12 col-lg-9 p-4">
                                 <h4 class="fw-bold">Today's trends</h4>
-                                <section class="col d-flex mb-5">
-                                    <p class="grey subtext">as of 25 May 2019, 09:41PM</p>
-                                    <div>
-                                        <hr id="graph-blue">
+                                <section class="row d-flex mb-5">
+                                    <div class="col">
+                                        <p class="grey subtext">as of 25 May 2019, 09:41PM</p>
+                                    </div>
+                                    <div id="graph" class="d-flex col-sm-9 col-lg-2 align-items-center gap-2">
+                                        <div id="graph-blue"></div>
                                         <p class="grey subtext">Today</p>
                                     </div>
-                                    <div>
-                                        <hr id="graph-blue">
+                                    <div id="graph" class="d-flex col-sm-9 col-lg-2 align-items-center gap-2">
+                                        <div id="graph-grey"></div>
                                         <p class="grey subtext">Yesterday</p>
                                     </div>
                                 </section>
                                 <!-- graph -->
                                 <img class="img-fluid" src="assets/images/graph.svg" alt="Trends Graph">                                
                             </section>
+
                             <section class="col d-flex flex-column justify-content-center align-items-center p-0">
                                 <h4 class="grey m-0">Resolved</h4>
                                 <h2>449</h2>
