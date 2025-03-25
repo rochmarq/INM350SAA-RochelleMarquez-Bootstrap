@@ -73,3 +73,17 @@ h4 {
     border: none;
     border-radius: 10px;
 }
+
+.urgent-tag {
+    background-color: #FEC400;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+}
+
+.new-tag {
+    background-color: #29CC97;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+}
