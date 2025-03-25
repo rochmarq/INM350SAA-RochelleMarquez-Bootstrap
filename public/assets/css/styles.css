@@ -67,3 +67,9 @@ h4 {
     font-size: 12px;
 }
 
+.grey-tag {
+    background-color: #F0F1F7;
+    color: #9FA2B4;
+    border: none;
+    border-radius: 10px;
+}
